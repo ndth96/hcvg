@@ -5,8 +5,7 @@ public class BoringWindow extends JFrame{
         JFrame f = new BoringWindow();
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setSize(300,200);
-        f.setVisible(true);
-        
+        f.setVisible(true);   
     }
     
 }
