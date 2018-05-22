@@ -1,4 +1,4 @@
-package excercises.lession1;
+package excercises.lesson1;
 
 //import javafx.scene.shape.Circle;
 
