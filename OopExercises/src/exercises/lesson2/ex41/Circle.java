@@ -1,4 +1,4 @@
-package excercises.lesson1;
+package exercises.lesson2.ex41;
 
 public class Circle {
     private double radius;
